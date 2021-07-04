@@ -3,6 +3,8 @@
     {"id":0,"file":"
 setenv FORWARD_COMPATIBLE 1
 client
+setenv FORWARD_COMPATIBLE 1
+client
 server-poll-timeout 4
 nobind
 remote 34.132.76.244 1194 udp
